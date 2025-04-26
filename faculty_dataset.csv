@@ -1,0 +1,101 @@
+FacultyName,Discipline,CourseLevel,TechSkillLevel,PreviousTools,RecommendedTool
+Neeraj Chauhan,Computer Science,Graduate,Intermediate,"Slack, Canvas",Loom
+Isha Mehra,Psychology,Graduate,Beginner,"MS Teams, Moodle",Loom
+Shreya Patel,Computer Science,Graduate,Beginner,"MS Teams, Canvas",Canva
+Tanisha Reddy,History,Undergraduate,Advanced,"Canvas, Moodle",Miro
+Suresh Babu,Management,Undergraduate,Intermediate,"Zoom, Canvas",Miro
+Vanya Kapoor,Economics,Undergraduate,Beginner,"Zoom, Canvas",Figma
+Karthik Iyer,Economics,Graduate,Beginner,"Moodle, Zoom",ChatGPT
+Rudra Iyer,Chemistry,Graduate,Advanced,Canvas,Canva
+Sneha Reddy,Biology,Undergraduate,Advanced,Zoom,Miro
+Deepika Reddy,Management,Graduate,Intermediate,"MS Teams, Slack",Figma
+Deepika Reddy,Biology,Graduate,Beginner,"Zoom, Canvas",ChatGPT
+Tanvi Shukla,Physics,Undergraduate,Advanced,"MS Teams, Canvas",Loom
+Rohan Gupta,Physics,Undergraduate,Intermediate,"Slack, Zoom",Figma
+Ananya Das,Computer Science,Graduate,Intermediate,"Slack, Moodle",Canva
+Yuvraj Choudhary,History,Graduate,Beginner,"MS Teams, Canvas",Canva
+Rajat Agarwal,Engineering,Undergraduate,Intermediate,"Slack, MS Teams",Miro
+Anjali Sharma,English,Graduate,Intermediate,Moodle,Figma
+Varsha Rao,Engineering,Graduate,Advanced,"MS Teams, Zoom",Miro
+Trisha Kapoor,Management,Undergraduate,Intermediate,MS Teams,Loom
+Chetan Deshmukh,Psychology,Graduate,Advanced,Moodle,Figma
+Aditi Sharma,Engineering,Undergraduate,Beginner,"Slack, MS Teams",ChatGPT
+Bhavya Singh,English,Undergraduate,Beginner,"Slack, Moodle",Loom
+Rajat Agarwal,Computer Science,Graduate,Advanced,Zoom,Figma
+Sara Malhotra,Psychology,Graduate,Intermediate,Zoom,Canva
+Nikhil Chandra,Physics,Undergraduate,Intermediate,Slack,Miro
+Vidya Rao,Economics,Graduate,Intermediate,"Slack, MS Teams",ChatGPT
+Shalini Sinha,History,Graduate,Beginner,MS Teams,Miro
+Abhinav Tripathi,History,Graduate,Advanced,MS Teams,Figma
+Shaurya Verma,Physics,Undergraduate,Intermediate,"Slack, Zoom",Canva
+Shaurya Verma,History,Undergraduate,Intermediate,Slack,Canva
+Darshan Patel,Engineering,Undergraduate,Beginner,"Zoom, Slack",ChatGPT
+Aman Saxena,Psychology,Graduate,Advanced,Canvas,Figma
+Naina Jaiswal,English,Graduate,Advanced,"Moodle, MS Teams",Loom
+Sameer Reddy,Psychology,Graduate,Intermediate,Canvas,Loom
+Sanya Kapoor,Economics,Undergraduate,Advanced,"MS Teams, Canvas",Miro
+Rhea Nambiar,Physics,Graduate,Beginner,"Canvas, MS Teams",Miro
+Anjali Sharma,History,Undergraduate,Beginner,Slack,Canva
+Naina Jaiswal,Management,Graduate,Beginner,MS Teams,Miro
+Rishabh Garg,Management,Undergraduate,Beginner,Slack,Canva
+Pallavi Sinha,Computer Science,Undergraduate,Advanced,MS Teams,Miro
+Bhavana Pillai,Engineering,Graduate,Intermediate,Zoom,Loom
+Vedant Iyer,Engineering,Graduate,Beginner,Zoom,Loom
+Sanya Kapoor,English,Graduate,Advanced,Slack,Figma
+Vanya Kapoor,Psychology,Undergraduate,Advanced,Canvas,Miro
+Aakash Sharma,Computer Science,Undergraduate,Beginner,"Zoom, Slack",Miro
+Nikhil Chandra,Engineering,Undergraduate,Advanced,"MS Teams, Slack",Loom
+Meera Menon,Psychology,Undergraduate,Beginner,Canvas,Miro
+Varsha Rao,Management,Undergraduate,Beginner,"Zoom, Canvas",Canva
+Aditya Rao,Economics,Graduate,Advanced,"Zoom, Slack",ChatGPT
+Aman Saxena,Computer Science,Undergraduate,Advanced,"Moodle, Canvas",Figma
+Shruti Agarwal,Management,Undergraduate,Beginner,Zoom,Canva
+Mohit Verma,History,Undergraduate,Intermediate,"Zoom, Moodle",Figma
+Manish Malhotra,Economics,Undergraduate,Beginner,Zoom,Miro
+Aman Saxena,Biology,Undergraduate,Advanced,MS Teams,ChatGPT
+Kiara Patel,Chemistry,Graduate,Intermediate,Canvas,Figma
+Swati Kulkarni,History,Undergraduate,Intermediate,Slack,ChatGPT
+Nitin Deshmukh,Chemistry,Graduate,Advanced,Zoom,Miro
+Darshan Patel,Biology,Graduate,Beginner,Slack,Figma
+Vedant Iyer,Physics,Undergraduate,Beginner,"Slack, Zoom",Miro
+Pooja Patil,Biology,Undergraduate,Beginner,Zoom,Canva
+Ira Joshi,Computer Science,Graduate,Advanced,"Slack, Canvas",Miro
+Pranav Desai,Economics,Undergraduate,Beginner,Slack,Canva
+Ravi Kumar,Chemistry,Graduate,Beginner,"Moodle, Canvas",ChatGPT
+Vikram Joshi,Physics,Graduate,Beginner,"Canvas, MS Teams",ChatGPT
+Yuvraj Choudhary,Physics,Graduate,Intermediate,"Moodle, Zoom",ChatGPT
+Siddhant Nair,Computer Science,Undergraduate,Advanced,MS Teams,Canva
+Atharv Mehra,History,Graduate,Intermediate,"Slack, Zoom",Loom
+Anvi Sharma,Economics,Undergraduate,Intermediate,MS Teams,Figma
+Kunal Shetty,Physics,Undergraduate,Intermediate,Canvas,Figma
+Aman Saxena,Biology,Undergraduate,Advanced,Zoom,Miro
+Omkar Kulkarni,Management,Undergraduate,Advanced,"Moodle, MS Teams",Miro
+Darshan Patel,English,Undergraduate,Beginner,Canvas,Loom
+Chirag Deshmukh,Chemistry,Undergraduate,Beginner,"Canvas, Moodle",ChatGPT
+Pooja Patil,Economics,Graduate,Beginner,"MS Teams, Moodle",Loom
+Vidya Rao,Computer Science,Undergraduate,Intermediate,Moodle,ChatGPT
+Navya Kapoor,Management,Graduate,Beginner,Canvas,Figma
+Naina Jaiswal,Economics,Undergraduate,Intermediate,Zoom,Canva
+Darshan Patel,Management,Undergraduate,Advanced,Canvas,Canva
+Saanvi Sharma,Economics,Undergraduate,Advanced,Slack,Figma
+Kabir Rao,Computer Science,Graduate,Advanced,"Canvas, Slack",Canva
+Avni Menon,Engineering,Graduate,Beginner,"Zoom, Canvas",Loom
+Suresh Babu,Psychology,Undergraduate,Advanced,MS Teams,Figma
+Diya Bansal,Management,Undergraduate,Beginner,Zoom,Canva
+Kabir Rao,Chemistry,Undergraduate,Beginner,"Canvas, Zoom",Figma
+Kunal Shetty,Engineering,Undergraduate,Advanced,"MS Teams, Zoom",Miro
+Simran Kaur,History,Undergraduate,Advanced,"Zoom, Slack",Loom
+Aarav Chopra,History,Graduate,Intermediate,"MS Teams, Moodle",Canva
+Arjun Mehta,History,Graduate,Advanced,Zoom,Miro
+Rudra Iyer,Management,Undergraduate,Intermediate,"MS Teams, Zoom",Figma
+Omkar Kulkarni,Psychology,Graduate,Intermediate,Canvas,ChatGPT
+Shreya Patel,Psychology,Undergraduate,Intermediate,"Zoom, Slack",ChatGPT
+Aarav Chopra,Chemistry,Undergraduate,Advanced,Zoom,Miro
+Isha Mehra,Economics,Graduate,Intermediate,Slack,Canva
+Kiara Patel,Physics,Graduate,Intermediate,Canvas,Canva
+Divya Bhat,Management,Undergraduate,Beginner,MS Teams,Canva
+Rahul Chauhan,Physics,Graduate,Advanced,Slack,ChatGPT
+Saanvi Sharma,Chemistry,Graduate,Intermediate,"Canvas, Slack",Figma
+Rajeev Nair,Chemistry,Graduate,Beginner,Slack,Canva
+Swati Kulkarni,Computer Science,Graduate,Intermediate,Moodle,ChatGPT
+Tushar Gupta,Engineering,Undergraduate,Beginner,Moodle,Miro
